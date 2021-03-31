@@ -11,4 +11,4 @@ Columns:
 * Preceeding context tweet IDs
 
 ## Publications
-Stefano Menini, Alessio Palmero Aprosio and Sara Tonelli. Abuse is Contextual, What about NLP? The Role of Context in Abusive Language Annotation and Detection, arxiv, 2021
+Stefano Menini, Alessio Palmero Aprosio and Sara Tonelli. Abuse is Contextual, What about NLP? The Role of Context in Abusive Language Annotation and Detection, arxiv, 2021 https://arxiv.org/abs/2103.14916
